@@ -2,7 +2,7 @@
 
 Deixo aqui uma lista de opções do SGBDS mais integradas na área de tecnologia. Tanto para quem inicia-se aos que já estão na área.
 
-* o que é um SGBD ?<p>
+* O que é um SGBD ?<p>
 Os Sistemas de Gerenciamento de Banco de Dados, ou SGBDs, são conjuntos de softwares utilizados para o gerenciamento de uma base de dados, ou seja, são os programas utilizados para controlar, organizar, acessar e proteger as informações de uma empresa.
 
 <br>
