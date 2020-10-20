@@ -6,7 +6,7 @@ Deixo aqui uma lista de opções do SGBDS mais integradas na área de tecnologia
 Os Sistemas de Gerenciamento de Banco de Dados, ou SGBDs, são conjuntos de softwares utilizados para o gerenciamento de uma base de dados, ou seja, são os programas utilizados para controlar, organizar, acessar e proteger as informações de uma empresa.
 
 <br>
-<img height="90" src=https://www.oracle.com/a/ocom/img/pl-sql.svg />
+<img height="90" text-align="center" src=https://www.oracle.com/a/ocom/img/pl-sql.svg />
 
 [Oracle](https://www.oracle.com/downloads/)
 Originada nos anos 80, criado por Larry Ellison, a Oracle é hoje uma das maiores empresas de tecnologia do mundo, sendo que desde 2009 é também proprietária das linhas de software Java.
