@@ -13,7 +13,7 @@ Originada nos anos 80, criado por Larry Ellison, a Oracle é hoje uma das maiore
 
 
 <br>
-<img display="block"  margin-left="auto"  margin-right="auto" height="80" src=https://www.mysql.com/common/logos/logo-mysql-170x115.png />
+<img height="80" src=https://www.mysql.com/common/logos/logo-mysql-170x115.png />
 
 [MySQL](https://www.mysql.com/downloads/)
 Um dos bancos de dados mais utilizados e populares, trata-se de uma tecnologia Open Source, ou seja, de código aberto. Isto permite que o desenvolvimento do mesmo seja realizado de acordo com as necessidades de uma organização.
