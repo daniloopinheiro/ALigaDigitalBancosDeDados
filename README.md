@@ -20,7 +20,7 @@ Um dos bancos de dados mais utilizados e populares, trata-se de uma tecnologia O
 
 
 <br>
-<img height="80" src=https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg />
+<img height="80" src=https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png />
 
 [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 poderoso SGBD relacional da Microsoft, lançado em 1988 como parte do Windows NT e posteriormente comercializado como um produto separado e em constante desenvolvimento desde então.
@@ -38,7 +38,7 @@ somos a maior comunidade educacional gratuita para desenvolvedores de software a
 Um dos SGBDs que mais cresceu nos últimos anos. Trata-se de um sistema NoSQL que foi lançado em 2009 pela empresa que leva o mesmo nome. O SGBD procura unir o melhor dos sistemas relacionais e as inovações do NoSQL, mantendo muitas características do primeiro, como índices e consultas dinâmicas, mas também com o modelo de dados orientados a documentos.
 
 <br>
-<img height="80" src=https://lh3.googleusercontent.com/proxy/Npg4L_CwYUdmjvB5Ar_zMqK3RKUuxnAZublyCNtcB37RHFXZN_gZ1T4WmSWfwB3cuBnxUzcuWA0MOPBpLyR5qP-ThoIQNU18_zVVLpS6fY5Gn0UGw-w />
+<img height="80" src=https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png />
 
 [DB2](https://www.ibm.com/br-pt/analytics/db2/trials)
 Banco de dados da gigante IBM. Lançando ainda na década de 1980, embora seu desenvolvimento tenha ocorrido durante os anos de 70. Se valendo da teoria dos bancos de dados relacionais, desenvolvida por Edgar Frank Codd, que na época trabalhava para a empresa.
@@ -50,7 +50,7 @@ Banco de dados da gigante IBM. Lançando ainda na década de 1980, embora seu de
 banco de dados não relacional (NoSQL), desenvolvido inicialmente pelo Facebook que, em 2008, tornou o SGBD open source. Em outras palavras, abriu o código para o mercado. Atualmente, é mantido por desenvolvedores da fundação Apache (Organização sem fins lucrativos criada com o objetivo de prover suporte para projetos de código aberto).
 
 <br>
-<img height="80" src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Microsoft_Access_2013_logo.svg/1043px-Microsoft_Access_2013_logo.svg.png />
+<img height="80" src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png />
 
 [Microsoft Access](https://www.microsoft.com/en/microsoft-365/access)
 Sim, o Access é considerado um SGBD relacional. Trata-se de uma tecnologia desenvolvida pela Microsoft e atualmente integrante do pacote Office. A linguagem de desenvolvimento utilizada no SGBD é o Visual Basic (VBA), embora também seja compatível com SQL. Isto permite que os usuários misturem ambas no tratamento dos dados.
